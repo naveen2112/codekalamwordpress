@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpressdb' );
+define( 'DB_NAME', 'codekalamwordpressdb' );
 
 /** Database username */
 define( 'DB_USER', 'admin' );
@@ -29,7 +29,7 @@ define( 'DB_USER', 'admin' );
 define( 'DB_PASSWORD', 'admin123' );
 
 /** Database hostname */
-define( 'DB_HOST', 'demo.cfetpjdspyv9.ap-south-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'codekalamecsec2php.cfetpjdspyv9.ap-south-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
